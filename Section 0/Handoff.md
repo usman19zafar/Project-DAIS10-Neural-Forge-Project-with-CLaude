@@ -1,4 +1,4 @@
-DAIS‑10 Integration Session — Sanitized Edition
+DAIS‑10 Integration Session
 
 Date: February 13, 2026
 Session Duration: ~3 hours
